@@ -1,25 +1,14 @@
 {
-  "version": "2.0.4",
-  "name": "language-glsl",
-  "description": "Atom language support for GLSL",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/hughsk/language-glsl.git"
-  },
+  "name": "language-gdshader",
+  "version": "0.1.0",
+  "description": "Pulsar/Atom language support for GDShader",
+  "repository": "https://github.com/ditpowuh/language-gdshader",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/hughsk/language-glsl/issues"
+    "url": "https://github.com/ditpowuh/language-gdshader/issues"
   },
   "engines": {
-    "atom": "*",
-    "node": "*"
+    "atom": ">=1.0.0 <2.0.0"
   },
-  "homepage": "https://github.com/hughsk/language-glsl",
-  "keywords": [
-    "language",
-    "glsl",
-    "atom",
-    "editor",
-    "syntax"
-  ]
+  "homepage": "https://github.com/ditpowuh/language-gdshader"
 }
