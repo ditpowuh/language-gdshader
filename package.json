@@ -1,6 +1,6 @@
 {
   "name": "language-gdshader",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "description": "Pulsar/Atom language support for GDShader",
   "repository": "https://github.com/ditpowuh/language-gdshader",
   "license": "MIT",
